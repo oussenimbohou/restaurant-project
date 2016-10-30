@@ -1,0 +1,34 @@
+#photo1{
+	width: 100%;
+	border: 5px solid ;
+}
+#photo2{
+	width:100%;
+	border: 5px solid ;
+}
+#photo3{
+	width:100%;
+	border: 5px solid ;
+}
+#welcome{
+	width: 90%;
+}
+p{
+	text-align: justify;
+	text-justify: inter-word;
+}
+p a{
+	color: red;
+	text-decoration: underline;
+}
+strong{
+	text-align: center;
+	text-transform: uppercase;
+}
+h1{
+	text-align:center;
+	text-transform: uppercase;
+}
+.col-md-1, .col-md-2, .col-md-4{
+	/*border:1px solid red;*/
+}
